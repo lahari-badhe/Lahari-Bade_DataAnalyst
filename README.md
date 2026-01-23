@@ -1,36 +1,43 @@
-<!-- =====================  PREMIUM GITHUB PROFILE README  ===================== -->
+<!-- =====================  LAHARI BADE | PREMIUM GITHUB PROFILE  ===================== -->
 
-<h1 align="center">Hi 👋, I'm Lahari Bade</h1>
+<h1 align="center">Hi, I'm Lahari Bade 👋</h1>
 <h3 align="center">Data & Analytics | Python • SQL • AWS • Power BI/Tableau</h3>
 
 <p align="center">
-  <a href="mailto:laharivarmal642@gmail.com"><img src="https://img.shields.io/badge/Email-laharivarmal642%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/lahari-bade"><img src="https://img.shields.io/badge/LinkedIn-lahari--bade-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/lahari-badhe"><img src="https://img.shields.io/badge/GitHub-lahari--badhe-black?style=flat-square&logo=github"></a>
+  <a href="mailto:laharivarmal642@gmail.com">
+    <img src="https://img.shields.io/badge/Email-laharivarmal642%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lahari-bade">
+    <img src="https://img.shields.io/badge/LinkedIn-lahari--bade-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lahari-badhe/nyc-yellow-trips-aws-lab">
+    <img src="https://img.shields.io/badge/GitHub-nyc--yellow--trips--aws--lab-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Seattle%2C%20WA-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Relocation-important?style=flat-square" />
-  <img src="https://img.shields.io/badge/Availability-Immediate%20Joiner-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-2F6DBB?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Hands--on-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI%20%7C%20Tableau-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-I’m a **Data & Analytics professional** with 2+ years of experience building analytics solutions using **Python, SQL, AWS, and BI tools (Power BI/Tableau)**.  
-I love translating business questions into **KPIs**, building **ETL pipelines**, enforcing **data quality checks**, and delivering stakeholder-ready dashboards.
+I’m a **Data & Analytics professional with 2+ years of experience** building analytics solutions using **Python, SQL, AWS, and BI tools (Power BI/Tableau)**.  
+I’ve delivered end-to-end pipelines with orchestration, data quality checks, and **MDM (SCD Type 2)**, along with dashboards in **Redshift + QuickSight**, translating business questions into measurable KPIs and decision-ready insights.
 
-✅ Strengths: **ETL/ELT • Data Modeling • Data Warehousing • MDM (SCD Type 2) • BI Dashboards • Stakeholder Communication**
+✅ Strengths: **ETL pipelines • Data modeling • Data warehousing • KPI dashboards • Data quality • Stakeholder collaboration**
 
 ---
 
-## 🚀 Featured Projects (Portfolio)
+## 🚀 Featured Portfolio Projects
 
 ### 🏙️ NYC Taxi Analytics Platform (End-to-End AWS)
 **Tech:** Python, SQL, S3, Glue (Spark), Lambda, Step Functions, Redshift, Athena, QuickSight, PostgreSQL  
-- Built an **S3 data lake** with zones (**raw / processed / curated / master**) and governed publishing for analytics workflows  
+- Built an **S3 data lake** with zones (**raw / processed / curated / master**) and automated governed publishing for downstream analytics  
 - Orchestrated **6+ pipeline steps** (Glue ETL + Lambda DQ gate + SQL execution + audit logging + MDM snapshots) using Step Functions; implemented **PostgreSQL MDM for 4 domains** with **SCD Type 2** history  
 
 🔗 Repo: https://github.com/lahari-badhe/nyc-yellow-trips-aws-lab
@@ -39,15 +46,15 @@ I love translating business questions into **KPIs**, building **ETL pipelines**,
 
 ### 🛍️ Customer Shopping Behavior Analysis Dashboard
 **Tech:** Python, SQL, Power BI, Tableau  
-- Performed **EDA in Python**, business analysis in **SQL**, and built KPI dashboards for **2.6K+ customers** with drilldowns  
+- Conducted EDA in Python, business analysis in SQL, and built KPI dashboards for **2.6K+ customers** with drilldowns  
 - Delivered insights improving reporting clarity and segmentation visibility for non-technical stakeholders  
 
 ---
 
 ### 🌿 Capstone: Biodiversity Analysis (Deforestation vs Amphibians)
 **Tech:** Python, Pandas, scikit-learn, MaxEnt, Power BI  
-- Integrated datasets (GBIF, AmphibiaWeb, Global Forest Watch, CHELSA, MODIS) into **80K+ observations**  
-- Built regression + **MaxEnt habitat suitability modeling** and delivered insights via an interactive Power BI dashboard  
+- Integrated datasets into a cleaned dataset of **80K+ observations** and implemented regression + MaxEnt habitat suitability modeling  
+- Delivered decision-ready insights via an interactive Power BI dashboard  
 
 ---
 
@@ -69,8 +76,8 @@ I love translating business questions into **KPIs**, building **ETL pipelines**,
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Step%20Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### 🗄️ Databases & Tools
@@ -81,29 +88,19 @@ I love translating business questions into **KPIs**, building **ETL pipelines**,
 
 ---
 
-## 📈 GitHub Stats (Premium Visual)
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lahari-badhe&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lahari-badhe&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahari-badhe&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🎓 Education & Certifications
-- **M.S. in Information Technology** — Kennesaw State University (GPA: 3.9)  
-- **Data Analytics & Intelligent Systems Certificate (KSU)**  
-- **DeepLearning.AI Machine Learning Specialization**  
-- **AWS Cloud Practitioner Essentials (Skillbuilder)**  
+🎓 **M.S. in Information Technology (GPA: 3.9)** — Kennesaw State University  
+🎓 **B.Tech in Electronics and Communication Engineering** — RGUKT Basar  
+
+📜 **Data Analytics & Intelligent Systems Certificate (KSU)**  
+📜 **DeepLearning.AI Machine Learning Specialization**  
+📜 **AWS Cloud Practitioner Essentials (Skillbuilder)**  
 
 ---
 
 ## 🤝 Let’s Connect
 📩 Email: **laharivarmal642@gmail.com**  
 💼 LinkedIn: https://linkedin.com/in/lahari-bade  
-💻 Portfolio Repo: https://github.com/lahari-badhe/nyc-yellow-trips-aws-lab  
+💻 GitHub Project Repo: https://github.com/lahari-badhe/nyc-yellow-trips-aws-lab
 
 ⭐ If you like my work, feel free to connect — I’m always open to collaborating on analytics and data engineering projects!
