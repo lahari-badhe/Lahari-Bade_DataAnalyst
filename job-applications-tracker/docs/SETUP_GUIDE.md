@@ -62,6 +62,7 @@ This is the main table used to track all job applications.
 3. Select **Table – Full page** or **Table – Inline**
 4. Name the table:
 
+![Create applications table](../screenshots/create table.png)
 
 ---
 
