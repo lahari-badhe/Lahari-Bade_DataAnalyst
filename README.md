@@ -144,3 +144,12 @@ I develop end-to-end **ETL pipelines**, orchestration workflows, **data quality 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=120&section=footer" />
 </p>
+## License
+
+This project is licensed under the  
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 License.
+
+You are welcome to fork, study, and recreate this project for learning purposes.
+Commercial use is not permitted.
+
+© Lahari Badhe
