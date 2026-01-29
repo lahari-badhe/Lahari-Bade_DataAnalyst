@@ -118,6 +118,7 @@ Add or update the following columns in the table.
 ## Phase 6: Create Views
 
 Views help organize and prioritize applications.
+![Kanban board views by application stage](../screenshots/kanban_views.png)
 
 ### View 1: By Stage (Kanban Board)
 1. Click **+ Add a view** at the top of the table
