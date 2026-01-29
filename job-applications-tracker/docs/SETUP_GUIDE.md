@@ -111,6 +111,7 @@ Add or update the following columns in the table.
   - Yes
   - No
   - Unknown
+![All application columns added](../screenshots/all_columns.png)
 
 ---
 
