@@ -1,2 +1,3 @@
-# AI-Assisted Job Application Tracking System
-(F-1 OPT Focused)
+# Setup Guide – Job Applications Tracker
+## Phase 1:
+### Step 1:
