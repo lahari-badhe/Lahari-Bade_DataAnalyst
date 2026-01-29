@@ -1,73 +1,23 @@
-# Job Applications Tracker
+# AI-Assisted Job Application Tracking System (F-1 OPT Focused)
 
-This project is a Notion-based system I created to manage and track my full-time job applications as a Data Analyst.
+This project documents a job application tracking system designed for F-1 OPT candidates applying for full-time roles in the United States.
 
-While applying to roles across multiple platforms, I needed a simple and reliable way to track application status, recruiter follow-ups, interview stages, and visa sponsorship details. This tracker helped me organize everything in one place.
+The system helps track job applications, application stages, recruiter follow-ups, and visa sponsorship availability in a structured and easy-to-manage workflow.
 
-
----
-
-## What this project does
-
-- Tracks job applications in a single table
-- Shows application progress using a Kanban board
-- Helps follow up with recruiters and referrals
-- Filters roles based on visa sponsorship availability
-- Keeps notes and important links in one place
+The tracking system is implemented using the Notion web platform. This repository contains documentation and screenshots explaining the design and setup.
 
 ---
 
-## Tools Used
+## What this project includes
 
-- Notion
-- GitHub (for documentation)
-- AI tools for:
-  - Job description analysis
-  - Recruiter message drafting
-  - Resume keyword matching
-
----
-
-## Tracker Structure
-
-Main fields used in the tracker:
-- Company
-- Position
-- Stage (Applied, Recruiter Messaged, Interview, Offer, Rejected)
-- Applied Date
-- Posting URL
-- Recruiter or HR Name
-- Follow-up Date
-- Visa Sponsorship Available
-- Notes
+- Centralized job application tracking
+- Kanban-style board for application stages
+- Recruiter outreach tracking
+- Visa sponsorship filtering
+- AI-assisted job description analysis and recruiter messaging
 
 ---
 
-## Views Created
+## Documentation
 
-- Table view – all applications
-- By Stage – Kanban board grouped by application stage
-- Recruiter Outreach – applications where recruiters were contacted
-- Sponsorship Friendly – roles that support or may support sponsorship
-
----
-
-## Screenshots
-
-Screenshots are added using dummy data only.
-No real company or personal information is included.
-
----
-
-## What I learned
-
-- How to design a simple workflow system
-- How to organize job search data efficiently
-- How to track follow-ups and priorities
-- How to document a non-coding project clearly
-
----
-## Project Scope
-
-This project focuses on workflow design and organization rather than coding.
-It demonstrates how structured systems can improve productivity and decision-making during a job search.
+- Setup Guide: docs/SETUP_GUIDE.md
