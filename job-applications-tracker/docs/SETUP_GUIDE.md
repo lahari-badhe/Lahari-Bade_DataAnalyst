@@ -18,7 +18,7 @@ The goal is to recreate the same tracking system used in this project without re
 ---
 
 ## Phase 2: Create the Main Page
-![Create table in Notion](../screenshots/create table.png)
+![Create table in Notion](../screenshots/create%20%table.png)
 
 ### Step 2: Create a new page
 1. In the left sidebar, under **Private**, click **Add new**
