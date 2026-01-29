@@ -13,7 +13,8 @@ The goal is to recreate the same tracking system used in this project without re
 2. Sign up using email or Google
 3. Choose **Personal use**
 
-![Create new page](screenshots/Notion_welcome_page.png)
+![Create new page](../screenshots/Notion_welcome_page.png)
+
 ---
 
 ## Phase 2: Create the Main Page
