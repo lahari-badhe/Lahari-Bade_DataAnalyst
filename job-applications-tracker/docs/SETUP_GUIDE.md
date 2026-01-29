@@ -46,6 +46,8 @@ This section is used to store quick access links.
 - **Column 2:** Portfolio  
   Paste your GitHub or portfolio link
 
+![Two column layout added](../screenshots/phase3.png)
+
 ---
 
 ## Phase 4: Create the Applications Database (Core System)
