@@ -172,6 +172,13 @@ AI-generated content is reviewed manually before use.
 Screenshots included in this repository use **dummy data only**.
 No real company names or personal information are shown.
 
+## Sample Data (Demonstration Only)
+
+To demonstrate real-world usage, sample job application entries were added to the tracker.
+These entries help validate filters, views, and workflow behavior.
+
+![Sample application data added](../screenshots/data_added.png)
+
 ---
 
 ## Notes
