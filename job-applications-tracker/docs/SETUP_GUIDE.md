@@ -18,6 +18,7 @@ The goal is to recreate the same tracking system used in this project without re
 ---
 
 ## Phase 2: Create the Main Page
+![Create table in Notion](../screenshots/create table.png)
 
 ### Step 2: Create a new page
 1. In the left sidebar, under **Private**, click **Add new**
@@ -76,6 +77,8 @@ Add or update the following columns in the table.
   - Analytics Engineer
   - Data Operations Analyst
   - Early Careers
+  
+![Position options column](../screenshots/position column.png)
 
 - **Stage** – Select  
   Options:
@@ -85,6 +88,8 @@ Add or update the following columns in the table.
   - Offer
   - Rejected
   - No Response
+  
+![Stage options](../screenshots/stage options.png)
 
 - **Applied Date** – Date
 - **Posting URL** – URL
@@ -104,6 +109,7 @@ Add or update the following columns in the table.
 - **Last Contact Date** – Date
 
 ---
+  ![Visa sponsorship options](../screenshots/visa options.png)
 
 ### Visa tracking field
 - **Visa Sponsorship Available** – Select  
@@ -111,6 +117,7 @@ Add or update the following columns in the table.
   - Yes
   - No
   - Unknown
+
 ![All application columns added](../screenshots/all_columns.png)
 
 ---
