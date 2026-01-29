@@ -21,3 +21,10 @@ The tracking system is implemented using the Notion web platform. This repositor
 ## Documentation
 
 - Setup Guide: docs/SETUP_GUIDE.md
+
+## Usage & License
+
+This system is shared to support learning and reproducible portfolio projects.
+
+Forking and recreation are encouraged with proper attribution.
+Commercial use is not allowed.
