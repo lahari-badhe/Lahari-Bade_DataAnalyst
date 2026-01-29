@@ -38,6 +38,7 @@ This section is used to store quick access links.
 1. Click below the page title
 2. Type `/column`
 3. Choose **2 columns**
+![Two column layout added](../screenshots/phase3.png)
 
 ### Column setup
 - **Column 1:** Resume  
@@ -46,7 +47,8 @@ This section is used to store quick access links.
 - **Column 2:** Portfolio  
   Paste your GitHub or portfolio link
 
-![Two column layout added](../screenshots/phase3.png)
+
+![Application details columns added](../screenshots/columns_added.png)
 
 ---
 
