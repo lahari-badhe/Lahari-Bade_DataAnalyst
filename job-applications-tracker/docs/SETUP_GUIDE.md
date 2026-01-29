@@ -13,6 +13,7 @@ The goal is to recreate the same tracking system used in this project without re
 2. Sign up using email or Google
 3. Choose **Personal use**
 
+![Create new page](screenshots/Notion_welcome_page.png)
 ---
 
 ## Phase 2: Create the Main Page
@@ -21,7 +22,7 @@ The goal is to recreate the same tracking system used in this project without re
 1. In the left sidebar, under **Private**, click **Add new**
 2. Select **Empty page**
 
-![Create new page](screenshots/Notion_welcome_page.png)
+![Create new page](screenshots/initial_phase.png)
 
 ### Step 3: Name the page
 Set the page title to: job-applications-tracker
