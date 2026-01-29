@@ -151,6 +151,13 @@ Views help organize and prioritize applications.
 3. Name the view: `Sponsorship Friendly`
 4. Add filter:
    - Visa Sponsorship Available → is **Yes** or **Unknown**
+   
+## Kanban View – By Stage
+
+A board view was created to visually track applications across stages such as Applied,
+Interview, Offer, and Rejected.
+
+![Applications grouped by stage](../screenshots/by_stage_view.png)
 
 ---
 
