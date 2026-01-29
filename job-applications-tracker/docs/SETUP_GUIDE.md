@@ -22,7 +22,8 @@ The goal is to recreate the same tracking system used in this project without re
 1. In the left sidebar, under **Private**, click **Add new**
 2. Select **Empty page**
 
-![Create new page](screenshots/initial_phase.png)
+![Initial Phase](../screenshots/Initial_phase.png)
+
 
 ### Step 3: Name the page
 Set the page title to: job-applications-tracker
