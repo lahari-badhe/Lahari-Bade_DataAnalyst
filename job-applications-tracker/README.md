@@ -1,9 +1,9 @@
 # Job Applications Tracker
 
-This project is a Notion-based system I built to track my full-time job applications as a Data Analyst.
+This project is a Notion-based system I created to manage and track my full-time job applications as a Data Analyst.
 
-While applying to jobs, I found it difficult to track application status, recruiter follow-ups, and visa sponsorship details across multiple platforms.  
-This tracker helped me organize everything in one place.
+While applying to roles across multiple platforms, I needed a simple and reliable way to track application status, recruiter follow-ups, interview stages, and visa sponsorship details. This tracker helped me organize everything in one place.
+
 
 ---
 
@@ -66,3 +66,8 @@ No real company or personal information is included.
 - How to track follow-ups and priorities
 - How to document a non-coding project clearly
 
+---
+## Project Scope
+
+This project focuses on workflow design and organization rather than coding.
+It demonstrates how structured systems can improve productivity and decision-making during a job search.
